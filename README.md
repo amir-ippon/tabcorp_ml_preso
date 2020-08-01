@@ -4,6 +4,9 @@
 
 [Lets ask wikipedia!](https://en.wikipedia.org/wiki/Machine_learning)
 # 
+### Common problems we want to solve?
+![Regression vs. Classification](https://raw.githubusercontent.com/amir-ippon/tabcorp_ml_preso/master/assets/Classification-vs-Regression1.png "")
+# 
 ### What is a ML Model?
 * #### Regression Analysis
 
@@ -22,10 +25,8 @@
 * #### Decision Trees & Random Forests
 
 ![Decision Tree](https://raw.githubusercontent.com/amir-ippon/tabcorp_ml_preso/master/assets/bff-finder.png "")
-
-# 
-### Common problems we want to solve?
-![Regression vs. Classification](https://raw.githubusercontent.com/amir-ippon/tabcorp_ml_preso/master/assets/Classification-vs-Regression1.png "")
+#
+### supervised vs. unsupervised learning
 
 
 
