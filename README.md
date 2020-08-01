@@ -20,6 +20,9 @@
 ![Artificial neural network](https://upload.wikimedia.org/wikipedia/commons/4/46/Colored_neural_network.svg "")
 
 * #### Decision Trees & Random Forests
+
+![Decision Tree](https://raw.githubusercontent.com/amir-ippon/tabcorp_ml_preso/master/assets/bff-finder.png "")
+
 # 
 ### Common problems we want to solve?
 ![Regression vs. Classification](https://raw.githubusercontent.com/amir-ippon/tabcorp_ml_preso/master/assets/Classification-vs-Regression1.png "")
