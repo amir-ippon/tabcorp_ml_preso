@@ -1,2 +1,6 @@
-# tabcorp_ml_preso
-Machine learning brown bag
+# ML & DL, Buzzword Galore!
+# 
+### What is machine learning?
+
+[Lets ask wikipedia!](https://en.wikipedia.org/wiki/Machine_learning)
+
