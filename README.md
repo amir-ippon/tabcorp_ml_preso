@@ -38,7 +38,10 @@ Data science:
 Cross-industry standard process for data mining, known as CRISP-DM.
 
 ![Model training LF](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/images/image2.jpeg)
+# 
+### AWS SageMaker
 
+![AWS SageMaker](https://github.com/amir-ippon/tabcorp_ml_preso/raw/master/assets/sageMaker.png)
 
 
 
