@@ -27,6 +27,19 @@
 ![Decision Tree](https://raw.githubusercontent.com/amir-ippon/tabcorp_ml_preso/master/assets/bff-finder.png "")
 #
 ### supervised vs. unsupervised learning
+#
+### ML Model development life-cycle
+
+Software develoment:
+ 
+![SDLC](https://raw.githubusercontent.com/amir-ippon/tabcorp_ml_preso/master/assets/SDLC-Cycle.jpg)
+
+Data science: 
+Cross-industry standard process for data mining, known as CRISP-DM.
+
+![Model training LF](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/images/image2.jpeg)
+
+
 
 
 
